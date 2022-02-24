@@ -29,6 +29,8 @@ Languages | ![Java](https://img.shields.io/badge/java-%2357A143.svg?style=for-th
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mortiz143&layout=compact&theme=tokyonight&count_private=true&custom_title=My&nbsp;Language&nbsp;Stats&include_all_commits=true" alt="GitHub readme stats" width=405px>
 
+<img src="https://github-profile-trophy.vercel.app/?username=mortiz143&include_all_commits=true&count_private=true" alt="mortiz143"/>
+
 
 <br>
 
