@@ -2,7 +2,7 @@
 
 ## 🍀 Hey there!
 
-I work in the industry for more than 9 years already, Im a Senior Integration Engineer and Linux Consumer from the Philippines.
+I work in the industry for more than 10 years already, Im a Senior Integration Engineer and Linux Consumer from the Philippines.
 * Most of my work is corporate.
 * What I have in my space are usually POC and Forks
 
